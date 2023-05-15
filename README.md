@@ -2,7 +2,7 @@
 
 In this repository you can find all necessary code used in my thesis.
 
-College data gathering.ipynb - Here you can find all necessary code to retrieve, clean and impute data.  
+College data gathering.ipynb - Here you can find all necessary code to retrieve, clean, and impute data.  
 Plots.R - Here you can find all necessary code to plot trends in data.  
 ModelOptimization.R - Here you can find all necessary code to train, optimize, test, and evaluate models.  
 
